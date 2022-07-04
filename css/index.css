@@ -1,0 +1,33 @@
+body {
+  background-color: #1bbbe3;
+}
+
+.imgClass {
+  background-image: url("../image.png");
+  position: relative;
+  left: -36px;
+  top: -10px;
+  height: 450px;
+  width: 400px;
+  cursor: pointer;
+}
+
+.whitespace {
+  display: inline-block;
+  background-color: #FFF;
+  height: 480px;
+  width: 430px;
+}
+
+.hold{
+  border: 2px solid red;
+}
+
+.hide{
+  display: none;
+}
+
+.dashed{
+  background: #a49a9a;
+  border-style: dashed;
+}
